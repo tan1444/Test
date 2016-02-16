@@ -19,7 +19,7 @@ namespace 开闭原则
             chartDisplay.SetChart(chart);
             chartDisplay.Display();
 
-            Console.ReadLine();
+           // Console.ReadLine();
         }
     }
 }

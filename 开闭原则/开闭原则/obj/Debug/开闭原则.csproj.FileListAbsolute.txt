@@ -1,0 +1,6 @@
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\bin\Debug\开闭原则.exe.config
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\bin\Debug\开闭原则.exe
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\bin\Debug\开闭原则.pdb
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\obj\Debug\开闭原则.csprojResolveAssemblyReference.cache
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\obj\Debug\开闭原则.exe
+F:\我的临时文件\软件开发原则\开闭原则\开闭原则\obj\Debug\开闭原则.pdb
